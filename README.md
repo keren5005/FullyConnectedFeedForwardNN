@@ -15,6 +15,8 @@ This repository contains Python code for building a fully connected feed forward
 
 A feed-forward neural network, also known as a fully connected neural network, is a type of artificial neural network where information flows in one direction, from the input layer to the output layer. It consists of layers of interconnected neurons, allowing it to process complex data and make predictions or classifications. This repository provides code for implementing a fully connected feed forward neural network.
 
+![results](./Figure_2.png)
+
 ## Key Components
 
 The code in this repository provides implementations for the following key components:
